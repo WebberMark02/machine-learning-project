@@ -1,4 +1,4 @@
 # machine-learning-project  
   
-Migliore media degli MSE:  
-Migliore deviazione standard degli MSE:
+Più bassa media degli MSE (deve essere il più vicino possibile a zero):  
+Più bassa deviazione standard degli MSE (deve essere il più vicino possibile a zero):
