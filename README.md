@@ -3,7 +3,7 @@
 Più bassa media degli MSE (deve essere il più vicino possibile a zero):  
 Più bassa deviazione standard degli MSE (deve essere il più vicino possibile a zero):  
 
-Massimo batch size su GPU: 8192  
+Massimo batch size su GPU A100: 17000  
 Massimo batch size su CPU: 2048  
 
 TODO:  
