@@ -7,6 +7,6 @@ Massimo batch size su GPU A100: 17000
 Massimo batch size su CPU: 2048  
 
 TODO:  
-- Salvare i backup del training su GitHub
-- Subito dopo il training, salvare i pesi del modello in un file su GitHub. Prima del training, controllare che un file di pesi sia disponibile. Se disponibile, carica i pesi e salta il training. Altrimenti, esegui il training.
+- Permettere al professore di eseguire solo il codice per il caricamento dei pesi del modello e per il test del modello, saltando tutto ciò che riguarda i dataset e il training.
+- Aggiungere link a google drive nel notebook per scaricare il file dei pesi del modello addestrato.
 - (Se possibile) Prova a usare KerasTuner per l'ottimizzazione degli iper-parametri della rete neurale.
